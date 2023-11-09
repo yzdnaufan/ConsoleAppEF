@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleAppEF1
+namespace ConsoleAppEF
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

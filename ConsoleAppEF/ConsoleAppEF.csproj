@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EE4EE676-353F-4946-AE59-42B2B3CB31A8}</ProjectGuid>
+    <ProjectGuid>{F718D940-9CB3-4B15-BBB9-3F77A04F0350}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleAppEF1</RootNamespace>
-    <AssemblyName>ConsoleAppEF1</AssemblyName>
+    <RootNamespace>ConsoleAppEF</RootNamespace>
+    <AssemblyName>ConsoleAppEF</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
